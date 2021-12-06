@@ -20,6 +20,6 @@ The purpose of this analysis was to take information from the existing company d
 
 > The analysis has been useful not only in gaining a better picture of the retirement-ready employees, it can also provide insight into a younger cohort. There are sufficient numbers of mentorship-ready employees across departments, such that the upcoming "silver tsunami" need not overwhelm the company.
 
-![image](https://user-images.githubusercontent.com/91562577/144781625-e4c179fd-8e70-4ff6-ba8c-96caf3947ce9.png)
+![image](https://user-images.githubusercontent.com/91562577/144782748-7d6e2af9-ce24-4a64-8fb2-d621a48483e6.png)
 
 
